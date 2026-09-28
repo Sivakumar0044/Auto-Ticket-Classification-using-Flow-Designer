@@ -1,0 +1,9 @@
+Sample rule set for documentation:
+Hardware -> laptop, desktop, keyboard, mouse, monitor, printer, device
+Software -> application, software, install, installation, crash, error, update
+Network -> wifi, wi-fi, internet, network, vpn, connectivity, connection
+Access -> login, password, account, permission, access, locked
+Email -> email, mailbox, outlook, mail not received
+Other -> no matching rule / manual review
+
+Adapt exact conditions to the fields and choice values available in the team's ServiceNow instance.

@@ -1,0 +1,11 @@
+Auto-Ticket Classification Using Flow Designer
+
+Flow Name: To be filled from the actual ServiceNow instance
+Table: Incident
+Trigger: To be filled from the actual configuration
+Classification Input: Short Description / Description / configured fields
+Decision Rules: To be filled from the actual configuration
+Update Action: To be filled from the actual configuration
+Fallback: Other / Manual Review or the team's configured default
+
+Replace all placeholders with the actual ServiceNow values before final submission.
